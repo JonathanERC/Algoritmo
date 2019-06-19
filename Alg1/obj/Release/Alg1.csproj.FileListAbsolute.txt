@@ -1,0 +1,14 @@
+C:\Users\jrondon\source\Unicda\Algoritmo-expo\Alg1\Alg1\bin\Release\Alg1.exe.config
+C:\Users\jrondon\source\Unicda\Algoritmo-expo\Alg1\Alg1\bin\Release\Alg1.exe.manifest
+C:\Users\jrondon\source\Unicda\Algoritmo-expo\Alg1\Alg1\bin\Release\Alg1.application
+C:\Users\jrondon\source\Unicda\Algoritmo-expo\Alg1\Alg1\bin\Release\Alg1.exe
+C:\Users\jrondon\source\Unicda\Algoritmo-expo\Alg1\Alg1\bin\Release\Alg1.pdb
+C:\Users\jrondon\source\Unicda\Algoritmo-expo\Alg1\Alg1\obj\Release\Alg1.csprojAssemblyReference.cache
+C:\Users\jrondon\source\Unicda\Algoritmo-expo\Alg1\Alg1\obj\Release\Alg1.Form1.resources
+C:\Users\jrondon\source\Unicda\Algoritmo-expo\Alg1\Alg1\obj\Release\Alg1.Properties.Resources.resources
+C:\Users\jrondon\source\Unicda\Algoritmo-expo\Alg1\Alg1\obj\Release\Alg1.csproj.GenerateResource.cache
+C:\Users\jrondon\source\Unicda\Algoritmo-expo\Alg1\Alg1\obj\Release\Alg1.csproj.CoreCompileInputs.cache
+C:\Users\jrondon\source\Unicda\Algoritmo-expo\Alg1\Alg1\obj\Release\Alg1.exe.manifest
+C:\Users\jrondon\source\Unicda\Algoritmo-expo\Alg1\Alg1\obj\Release\Alg1.application
+C:\Users\jrondon\source\Unicda\Algoritmo-expo\Alg1\Alg1\obj\Release\Alg1.exe
+C:\Users\jrondon\source\Unicda\Algoritmo-expo\Alg1\Alg1\obj\Release\Alg1.pdb
